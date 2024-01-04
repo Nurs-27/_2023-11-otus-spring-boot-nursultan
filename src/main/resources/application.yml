@@ -1,0 +1,8 @@
+i18n:
+  locale: ${ENV_LOCALE:en}
+  quiz-keys:
+    registration:
+      firstName: "registration.first.name"
+      lastName: "registration.last.name"
+    path: "quiz.path"
+    announce-result: "announce.result"
